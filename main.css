@@ -75,7 +75,7 @@ input {
 .avatar {
   height: 25vh;
   width: 13%;
-  background-image: url(perfil.jpg);
+  background-image: url(image/perfil.jpg);
   background-size: contain;
   background-position: center;
   border-radius: 50%;
